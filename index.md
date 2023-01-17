@@ -49,7 +49,6 @@ La evaluación consistirá en:
     - [Template](https://github.com/leonpalafox/dsclase/blob/master/Resources/TemplateProyecto.docx)
 
 - El restante 40% será distribuido de la siguiente forma:
-    - 1 Examen Final. 
     - Tareas.
     - Participación en clase
 
@@ -85,13 +84,7 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
     5. Limpieza de Datos
     6. Tipos de Visualización
     7. Visualización en R/Python
-4.  Herramientas de Inteligencia de Negocios.
-    1. Gobernanza de Datos
-    2. Ciclo de vida del dato
-5.  Herramientas de análisis de datos (Excel, ML)
-6.  Herramientas de visualización de datos
-    1. Tableau
-    2. Power BI
+
 7.  Proyecto de Inteligencia de Negocios (Todo el curso)
 
 
@@ -99,12 +92,10 @@ En caso de alguna situación extraordinaria se deberá platicarlo con el profeso
 # Slides
 
 
-
 - [Clase 1 - Intro, Historia](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_1_2020.pptx)
 - [Clase 2 - Proyectos de Ciencia de Datos](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_2_2020.pptx)
 - [Clase 3 - Narrativa](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_3_2020.pptx)
 - [Clase 5 - Modelaje](https://github.com/leonpalafox/fundamentos_ds_2022/blob/master/Slides/Clase_5_2020.pptx)
-
 
 
 
